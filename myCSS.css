@@ -3,7 +3,7 @@
 body {
      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
      margin: 0;
-     background-color: #FFF491;	
+     background-color: #FFFFFF;	
 }
 
 a:link {
@@ -18,7 +18,7 @@ a:hover, a:active, a:focus {
 
 
 .homePage {
-	background: #FFF491;
+	background: #EDBB45;
 }
 .container {
 	width: 960px;
@@ -47,14 +47,14 @@ a:hover, a:active, a:focus {
 	
 }
 .content {
-	background: #FFF491;
+	background: #ED875F;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #EDBB45;
+	background: #EDA05F;
 	margin: 0px;
 	float: left;
 	width: 100%;
