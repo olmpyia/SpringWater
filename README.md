@@ -11,8 +11,6 @@
   <div class="header">
   	<h1>Spring Water Cleaners!</h1>
   </div>
-  <div class="nav">
-  </div>
   <div class="footer">
     <h4>About Me | Contact | Copyright 2023</h4> <FONT COLOR:#D6B34F>
 </div>
