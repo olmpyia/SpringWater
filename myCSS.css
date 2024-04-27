@@ -3,7 +3,7 @@
 body {
      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
      margin: 0;
-     background-color: #FFFFFF;	
+     background-color: #FFF491;	
 }
 
 a:link {
@@ -47,14 +47,14 @@ a:hover, a:active, a:focus {
 	
 }
 .content {
-	background: #FFF5EB;
+	background: #ED6E5F;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #3D3B35;
+	background: #EDBB45;
 	margin: 0px;
 	float: left;
 	width: 100%;
