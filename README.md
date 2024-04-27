@@ -1,4 +1,3 @@
-# SpringWater
 <!DOCTYPE html>
 <html class="homePage">
 <head>
