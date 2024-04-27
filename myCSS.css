@@ -18,7 +18,7 @@ a:hover, a:active, a:focus {
 
 
 .homePage {
-	background: #FFF491;
+	background: #FFF4C0;
 }
 .container {
 	width: 1280px;
@@ -35,7 +35,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: #FFA396;
+	background: #FFF491;
 	margin: 0px;
 	padding: 5;
 	float: left;
